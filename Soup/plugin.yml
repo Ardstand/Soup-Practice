@@ -1,0 +1,9 @@
+---
+name: Soup
+author: Blaze7105
+version: 1.2.0
+main: Blaze7105\Soup\Main
+api:
+- 3.0.0
+Description: Soup PvP for FrigidMC
+...
